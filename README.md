@@ -20,8 +20,8 @@ To run this website locally, you need to have a web browser that supports HTML, 
 
 ## 📷 Screenshots
 
-![Screenshot of the website showing the drum buttons]
-![Screenshot of the website showing the keyboard keys]
+![Screenshot of the website showing the drum buttons](https://github.com/Aswin2702/Drum-Kit/assets/94279007/eff79f6d-2dcd-45b0-9ae2-e7f5a495604f)
+
 
 ## 📜 License
 
