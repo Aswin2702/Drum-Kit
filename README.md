@@ -1,6 +1,6 @@
 # 🥁 Drum Sounds Playing Website
 
-This is a simple website that lets you play 7 different drum sounds using your keyboard or mouse. You can press the keys A, S, D, F, G, H, or J to play the corresponding drum sound. You can also click on the drum buttons on the screen to play the sounds.
+This is a simple website that lets you play 7 different drum sounds using your keyboard or mouse. You can press the keys W, A, S, D, J, K or L to play the corresponding drum sound. You can also click on the drum buttons on the screen to play the sounds.
 
 ## 🎵 Features
 
